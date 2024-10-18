@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\olga\\source\\repos\\consoleapp3\\consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\olga\\source\\repos\\consoleapp3\\consoleapp3\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\olga\\source\\repos\\consoleapp3\\consoleapp3\\expirationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\expirationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\olga\\source\\repos\\consoleapp3\\consoleapp3\\complexitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\complexitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\olga\\source\\repos\\consoleapp3\\consoleapp3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\olga\\source\\repos\\consoleapp3\\consoleapp3\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\iprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|c:\\users\\olga\\source\\repos\\consoleapp3\\consoleapp3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4D9A771-8E0B-4915-B8F9-ACB6D599CD92}|ConsoleApp3\\ConsoleApp3.csproj|solutionrelative:consoleapp3\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Order.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Order.cs",
+              "ToolTip": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Order.cs",
+              "RelativeToolTip": "ConsoleApp3\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T05:03:39.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\OrderItem.cs",
+              "RelativeToolTip": "ConsoleApp3\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:59:51.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExpirationItem.cs",
+              "DocumentMoniker": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ExpirationItem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\ExpirationItem.cs",
+              "ToolTip": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ExpirationItem.cs",
+              "RelativeToolTip": "ConsoleApp3\\ExpirationItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:58:46.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComplexItem.cs",
+              "DocumentMoniker": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ComplexItem.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\ComplexItem.cs",
+              "ToolTip": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\ComplexItem.cs",
+              "RelativeToolTip": "ConsoleApp3\\ComplexItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:56:56.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IPrice.cs",
+              "DocumentMoniker": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\IPrice.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\IPrice.cs",
+              "ToolTip": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\IPrice.cs",
+              "RelativeToolTip": "ConsoleApp3\\IPrice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:54:25.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Item.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Item.cs",
+              "ToolTip": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Item.cs",
+              "RelativeToolTip": "ConsoleApp3\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:43:24.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp3\\Program.cs",
+              "ToolTip": "C:\\Users\\Olga\\source\\repos\\ConsoleApp3\\ConsoleApp3\\Program.cs",
+              "RelativeToolTip": "ConsoleApp3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T04:35:09.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
